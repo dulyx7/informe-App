@@ -59,5 +59,5 @@ README.md
 ## Autores
 David Santiago Bernal Vargas
 Juan Felipe Hoyos Bernate
-Juan Sebastian Guzman Duarte
+Juan Sebastian Guzman Barreto
 Ingeniería de Sistemas – Universidad Libre
