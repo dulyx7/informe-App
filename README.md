@@ -1,18 +1,50 @@
-# informe-Aplicaion
-# Proyecto: Sistema de Gestión
-
-## Materia
-Ingeniería de Software
-
-## Integrantes
-- Juan Felipe Hoyos
-
+# CRM Inmobiliario
 ## Descripción
-Este proyecto busca desarrollar un sistema para gestionar gastos
-de manera sencilla.
+
+Este proyecto consiste en el desarrollo de un sistema CRM (Customer Relationship Management) para una empresa del sector inmobiliario. El sistema tiene como finalidad facilitar la gestión de clientes, propiedades y procesos de venta o arriendo, centralizando la información en una sola plataforma para mejorar la organización y el control de los datos.
+
+## Objetivo
+
+Desarrollar un CRM que permita optimizar la administración de inmuebles y clientes, apoyando los procesos comerciales y administrativos de una empresa inmobiliaria.
+
+## Funcionalidades
+
+- Registro y gestión de clientes
+
+- Registro y administración de propiedades
+
+- Seguimiento de clientes interesados en los inmuebles
+
+- Control del estado de las propiedades (disponible, reservado, vendido o arrendado)
+
+- Gestión básica de usuarios
+
+- Generación de reportes generales
+
+- Tecnologías utilizadas
+
+- Lenguaje de programación: Python
+
+## Tecnologías utilizadas
+
+Las tecnologías específicas se definirán durante la fase de desarrollo del proyecto. El sistema será implementado utilizando herramientas modernas para el desarrollo de aplicaciones web y gestión de bases de datos.
 
 ## Estado del proyecto
-- [x] Idea general
-- [x] Objetivos
-- [ ] Desarrollo
-- [ ] Entrega final
+
+Proyecto en fase de planificación y desarrollo con fines académicos.
+
+## Estructura del proyecto
+
+/src
+/docs
+README.md
+
+/src
+/docs
+README.md
+
+## Autores
+David Santiago Bernal Vargas
+Juan Felipe Hoyos Bernate
+Juan Sebastian Guzman Duarte
+Ingeniería de Sistemas – Universidad Libre
