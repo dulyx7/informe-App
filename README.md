@@ -3,9 +3,9 @@
 
 Este proyecto consiste en el desarrollo de un sistema CRM (Customer Relationship Management) para una empresa del sector inmobiliario. El sistema tiene como finalidad facilitar la gestión de clientes, propiedades y procesos de venta o arriendo, centralizando la información en una sola plataforma para mejorar la organización y el control de los datos.
 
-## Objetivo
+## Objetivo General
 
-Desarrollar un CRM que permita optimizar la administración de inmuebles y clientes, apoyando los procesos comerciales y administrativos de una empresa inmobiliaria.
+Desarrollar un sistema CRM inmobiliario que permita gestionar de manera integral la información de clientes y propiedades, optimizando los procesos comerciales mediante el registro detallado de datos, seguimiento de intereses y control de oportunidades de negocio.
 
 ## Funcionalidades
 
