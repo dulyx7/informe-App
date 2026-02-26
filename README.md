@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de un sistema CRM (Customer Relationship
 
 Desarrollar un sistema CRM inmobiliario que permita gestionar de manera integral la información de clientes y propiedades, optimizando los procesos comerciales mediante el registro detallado de datos, seguimiento de intereses y control de oportunidades de negocio.
 
-## Objetivos Especificoss
+## Objetivos Especificos
 1 Implementar un módulo de registro completo de clientes que permita almacenar información detallada como datos personales, tipo de inmueble que buscan, ubicación de interés, presupuesto estimado, medio por el cual conocieron la inmobiliaria o quién los recomendó, así como observaciones adicionales relevantes para el proceso comercial.
 
 2 Desarrollar un sistema de gestión de propiedades que facilite el registro, actualización y control de la información de los inmuebles, incluyendo sus características principales, precio y estado (disponible, reservado, vendido o arrendado).
